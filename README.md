@@ -2,8 +2,8 @@
 
 I'm Maximilien and I'm a Linux System Administrator who's focusing on reducing manual intervention and security.  
 
-- 🔭 I'm currently working on my [homelab]((https://github.com/nadmax/homelab))
-- 🖌️ I'm rewriting my [website's frontend]((https://github.com/nadmax/website)) with React
+- 🔭 I'm currently working on my [homelab](https://github.com/nadmax/homelab)
+- 🖌️ I'm rewriting my [website's frontend](https://github.com/nadmax/website) with React
 - 📖 I'm working on [Docker](https://github.com/nadmax/dock-help) and [Ansible](https://github.com/nadmax/ansible101) guides *(more guides on the way)*
 
 ## ☁️ DevOps tools
