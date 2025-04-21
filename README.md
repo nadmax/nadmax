@@ -25,6 +25,9 @@ I adopt the DevOps culture by reducing manual intervention, improving developmen
 ## 🎛️ Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+## 💬 Social
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
 ## 🔍 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadmax&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadmax&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)  
