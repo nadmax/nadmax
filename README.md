@@ -1,11 +1,9 @@
 # Hello there 👋
 
-I'm Maximilien, a former Full Stack Developer who is now a Linux System Administrator.  
-I adopt the DevOps culture by reducing manual intervention, improving development and delivery quality, and breaking the gap between developers and operators.  
+I'm Maximilien, a Freelance DevOps engineer with 3 years of experience.  
+Trained in modern DevOps methods, I design simple, well-documented, and easily scalable architectures.  
 
 - 🔭 I'm currently working on my [homelab](https://github.com/nadmax/homelab)
-- 🖌️ I'm rewriting my [website's frontend](https://github.com/nadmax/website) with React
-- 📖 I'm working on [Docker](https://github.com/nadmax/dock-help) and [Ansible](https://github.com/nadmax/ansible101) guides *(more guides on the way)*
 
 ## ♾️ DevOps tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
