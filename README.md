@@ -24,6 +24,9 @@ Pipecraft is a curated collection of clean, production-ready boilerplates with:
 - ✅ CI/CD powered by GitHub Actions  
 - ✅ Support for Go, Rust, Python, TypeScript & more  
 
+## ❤️ Support My Work
+If my projects help you, consider [sponsoring me](https://github.com/sponsors/nadmax) so I can keep building open-source tools and guides for the community.  
+
 ---
 
 ## ♾️ DevOps tools
