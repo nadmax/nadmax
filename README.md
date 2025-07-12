@@ -4,25 +4,14 @@ I'm Maximilien, a Freelance DevOps engineer with 3 years of experience.
 Trained in modern DevOps methods, I design simple, well-documented, and easily scalable architectures.  
 
 ## 🔭 Featured Projects
-
 ### 🚀 [Homelab](https://github.com/nadmax/homelab)  
 Build your own **local Kubernetes cluster** with automation and scalability in mind.  
 Ideal for learning, testing, and experimentation.
 
-- **Tech Stack:** OpenTofu, Cloud-init, libvirt, Ansible, Docker, Kubernetes, Just
-- **Architecture:** 3 virtual machines provisioned into a K8s cluster  
+- **Tech Stack:** OpenTofu, Cloud-init, Incus, Ansible, Docker, Kubernetes, Just
+- **Architecture:** 3 instances provisioned into a K8s cluster  
 - **Docs:** [Read the full documentation here](https://github.com/nadmax/homelab/blob/master/docs/README.md)  
 - **Contribute:** [Contribution guide here](https://github.com/nadmax/homelab/blob/master/CONTRIBUTING.md)
-
----
-
-### 🛠️ [Pipecraft](https://github.com/nadmax/pipecraft)
-Stop rewriting the same CI/CD setup for every project.  
-Pipecraft is a curated collection of clean, production-ready boilerplates with:
-
-- ✅ Dockerized environments  
-- ✅ CI/CD powered by GitHub Actions  
-- ✅ Support for Go, Rust, Python, TypeScript & more  
 
 ## ❤️ Support My Work
 If my projects or contributions help you, consider [sponsoring me](https://github.com/sponsors/nadmax).  
