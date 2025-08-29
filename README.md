@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Maximilien, a Freelance DevOps engineer with 3 years of experience.  
+I'm Maximilien, a Freelance DevOps engineer with 6 years of experience.  
 Trained in modern DevOps methods, I design simple, well-documented, and easily scalable architectures.  
 
 ## 🔭 Featured Projects
