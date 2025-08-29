@@ -8,8 +8,8 @@ Trained in modern DevOps methods, I design simple, well-documented, and easily s
 Build your own **local Kubernetes cluster** with automation and scalability in mind.  
 Ideal for learning, testing, and experimentation.
 
-- **Tech Stack:** OpenTofu, Cloud-init, Incus, Ansible, Docker, Kubernetes, Just
-- **Architecture:** 3 instances provisioned into a K8s cluster  
+- **Tech Stack:** OpenTofu, K3s, Docker, Terratest, Just
+- **Architecture:** 1 Docker container by default to experiment or go further with k3s.
 - **Docs:** [Read the full documentation here](https://github.com/nadmax/homelab/blob/master/docs/README.md)  
 - **Contribute:** [Contribution guide here](https://github.com/nadmax/homelab/blob/master/CONTRIBUTING.md) 
 
