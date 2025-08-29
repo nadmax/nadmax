@@ -1,7 +1,8 @@
 # Hey! 👋
 
-I'm Maximilien, a Freelance DevOps engineer with 6 years of experience.  
-Trained in modern DevOps methods, I design simple, well-documented, and easily scalable architectures.  
+I'm Maximilien, a Platform Engineer / SRE with 6 years of experience.  
+Trained in modern DevOps practices, I build robust, automated, and scalable infrastructures, with a strong focus on system security.
+I work on cloud or on-premise environments, paying special attention to pipeline quality, observability, and deployment reliability.
 
 ## 🔭 Featured Projects
 ### 🚀 [Homelab](https://github.com/nadmax/homelab)  
