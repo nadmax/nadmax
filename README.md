@@ -4,8 +4,8 @@ I'm Maximilien, a Platform Engineer / SRE with 6 years of experience.
 Trained in modern DevOps practices, I build robust, automated, and scalable infrastructures, with a strong focus on system security.
 I work on cloud or on-premise environments, paying special attention to pipeline quality, observability, and deployment reliability.
 
-## 🔭 Featured Projects
-### 🚀 [Homelab](https://github.com/nadmax/homelab)  
+## Featured Projects
+###  [Homelab](https://github.com/nadmax/homelab)  
 Build your own **local Kubernetes cluster** with automation and scalability in mind.  
 Ideal for learning, testing, and experimentation.
 
@@ -13,6 +13,7 @@ Ideal for learning, testing, and experimentation.
 - **Architecture:** 1 Docker container by default to experiment or go further with k3s.
 - **Docs:** [Read the full documentation here](https://github.com/nadmax/homelab/blob/master/docs/README.md)  
 - **Contribute:** [Contribution guide here](https://github.com/nadmax/homelab/blob/master/CONTRIBUTING.md) 
+
 
 ## ♾️ DevOps tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
