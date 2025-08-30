@@ -5,14 +5,14 @@ Trained in modern DevOps practices, I build robust, automated, and scalable infr
 I work on cloud or on-premise environments, paying special attention to pipeline quality, observability, and deployment reliability.
 
 ## Featured Projects
-### 👨‍💻 [Homelab](https://github.com/nadmax/homelab)  
-Build your own **local Kubernetes cluster** with automation and scalability in mind.  
-Ideal for learning, testing, and experimentation.
+### 👨‍💻 [Infra](https://github.com/nadmax/infa)  
+Let's replicate on your premises a local k3s cluster!  
+Ideal for learning, and experimentation.
 
 - **Tech Stack:** OpenTofu, K3s, Docker, Terratest, Just
 - **Architecture:** 1 Docker container by default to experiment or go further with k3s.
-- **Docs:** [Read the full documentation here](https://github.com/nadmax/homelab/blob/master/docs/README.md)  
-- **Contribute:** [Contribution guide here](https://github.com/nadmax/homelab/blob/master/CONTRIBUTING.md) 
+- **Docs:** [Read the full documentation here](https://github.com/nadmax/infra/blob/master/docs/README.md)  
+- **Contribute:** [Contribution guide here](https://github.com/nadmax/infra/blob/master/CONTRIBUTING.md) 
 <br/>
 
 ## ♾️ DevOps tools
