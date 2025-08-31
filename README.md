@@ -5,7 +5,7 @@ Trained in modern DevOps practices, I build robust, automated, and scalable infr
 I work on cloud or on-premise environments, paying special attention to pipeline quality, observability, and deployment reliability.
 
 ## Featured Projects
-### 👨‍💻 [Infra](https://github.com/nadmax/infa)  
+### 👨‍💻 [Infra](https://github.com/nadmax/infra)  
 Let's replicate on your premises a local k3s cluster!  
 Ideal for learning, and experimentation.
 
