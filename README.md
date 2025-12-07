@@ -1,8 +1,7 @@
 # Hey! 👋
 
-I'm Maximilien, a Platform Engineer / SRE with 6 years of experience.  
-Trained in modern DevOps practices, I build robust, automated, and scalable infrastructures, with a strong focus on system security.
-I work on cloud or on-premise environments, paying special attention to pipeline quality, observability, and deployment reliability.
+I'm Maximilien, DevOps Engineer with 6 years of experience.  
+Trained in modern DevOps practices, I develop robust software solutions, and I work on building reliable, observable, and secure infrastructures, whether in the cloud or on-premise.
 
 ## Featured Projects
 ### 👨‍💻 [Infra](https://github.com/nadmax/infra)  
