@@ -1,7 +1,7 @@
 # Hello! 🖖
 
 I'm Maximilien, DevOps Engineer with 6 years of experience.  
-Trained in modern DevOps practices, I develop robust software solutions, and I work on building reliable, observable, and secure infrastructures, whether in the cloud or on-premise.
+Trained in modern DevOps practices, I develop robust software solutions and I work on building reliable, observable, and secure infrastructures, whether in the cloud or on-premise.
 
 ## What I Work On?
 ### [Nexq](https://github.com/nadmax/nexq)
