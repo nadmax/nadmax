@@ -1,10 +1,8 @@
-# Hi! 👋
+# Hey! 👋
 
 **Welcome to my profile!**
 
-I'm Maximilien and I'm a Platform Engineer with 6 years of experience.  
-I design, build, and maintain scalable platform infrastructure across both cloud and on-premise environments, with an emphasis on enabling developer productivity and operational excellence.  
-I focus on optimizing CI/CD pipelines, improving system observability, ensuring reliable and repeatable deployments, and embedding security best practices throughout the application and infrastructure lifecycle.
+I like to build things in my free time, both to explore how concepts can be implemented and to create something tangible.
 
 ## Stacks
 
